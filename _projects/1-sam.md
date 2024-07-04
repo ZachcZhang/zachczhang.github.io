@@ -9,6 +9,7 @@ location: "HKUST(GZ)"
 ---
 
 MDI annotation platform SAM real-time recognition server ⚡ .
+### introduction
 Current support:
 - (1) 🌟 Real time annotation: multi-point annotation, single rectangle annotation
 - (2) 🔥 Prompt with different positive and negative values

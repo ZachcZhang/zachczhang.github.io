@@ -10,9 +10,10 @@ location: "HKUST(GZ)"
 
 Mdi Data Evaluation is the MDI data quality evaluation service
 
+I was responsible for platform development and back-end model access, as well as participating in data processing.
 <small>Collaborator: [Su Ri](https://mcaloma.github.io/), Wenjin Qi:<qijin70@gmail.com>, </small>
 
-## Project Introduction: 
+## Introduction: 
 
 This project aims to briefly evaluate the annotation results of doctors on a cell electron microscope dataset using various methods, including feature information calculation, training, and data screening, to improve the quality and accuracy of the dataset annotations.
 
