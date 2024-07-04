@@ -9,7 +9,7 @@ location: "HKUST(GZ)"
 ---
 
 Data Management Platform support .
-Current support:
+Currently support:
 - (1) Data upload, download, and modification management.
 - (2) Whole slide image（WSI） and regular image preview.
 - (3) 🌟 Initiate data-driven deep learning tasks.
