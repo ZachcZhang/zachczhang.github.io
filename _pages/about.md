@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou). I am currently involved in the research of large language models, from data corpus collection, processing & synthesis, model fine-tuning evaluation to deployment. At the same time, I was responsible for the development of internal software systems, such as labeling models, data evaluation, data management and other platforms. I used to be a DevOps software engineer responsible for Tencent's enterprise payment project. My current goal is to become a researcher and conduct practical theoretical research on LLMs.
+I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou), where I am involved in research on large language models and doing platform application development work. My work encompasses data corpus collection, processing and synthesis, model fine-tuning, evaluation, and deployment. Additionally, I develop internal software systems, including labeling models, data evaluation, and data management platforms,etc. Previously, I was a DevOps software engineer responsible for Tencent’s enterprise payment project. My current goal is to become a researcher and conduct practical theoretical research on large language models (LLMs).
 
 ## Work Experience
 - **2023.09 - present, the Hong Kong University of Science and Technology (Guangzhou), Research Assistant**
@@ -26,7 +26,7 @@ I am currently a research assistant at the Hong Kong University of Science and T
 ## Education
 
 - **the Hong Kong University of Science and Technology**
-    - MSc in Telecommunications, 2019.9 - 2020.11
+    - M.Sc. in Telecommunications, 2019.9 - 2020.11
 <br>
 
 - **Beijing Jiaotong University**
