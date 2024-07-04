@@ -12,7 +12,7 @@ Multimodal Medical LLM (Project in progress), intended to understand and generat
 <small>Collaborator: Jiale Gu:<jialegu@hkust-gz.edu.cn>, Feiyu Huang:<feiyuhuang@hkust-gz.edu.cn>, Zhao Chen </small>
 
 - (1) Based on universal large language model and multimodal model.
-- (2) Integrate data of different types and diseases, such as rich and comprehensive medical information such as medical texts and medical images, and obtain information from different data types through cross-modal data learning to provide more accurate diagnosis and treatment
+- (2) By integrating diverse data types and disease profiles, including rich and comprehensive medical information such as medical texts and images, we can leverage cross-modal data learning to extract insights from disparate data sources, ultimately enabling more accurate diagnoses and effective treatments.
 
 ### As the project is still ongoing, only some application achievements will be presented here
 
