@@ -39,6 +39,7 @@ I am currently a research assistant at the Hong Kong University of Science and T
 - 2017.05, Beijing Jiaotong University "Nokia" Cup Second Prize
 - 2016.10, Tianjin University students computer mouse maze competition third prize
 - 2016.06, Beijing Jiaotong University Basketball Competition Second Place
+- 2014.03, Hunan Merit Student (Senior High School Group)
 - 2013.09, Hunan high school mathematics competition Xiangxi district 2nd prize
 
 ## Amateur interests
