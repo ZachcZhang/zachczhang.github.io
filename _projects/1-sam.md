@@ -8,12 +8,17 @@ date: 2023-11-01
 location: "HKUST(GZ)"
 ---
 
-MDI annotation platform SAM real-time recognition server ⚡ .
+MDI annotation platform SAM real-time recognition server.
+
+<img src="/images/architecture.jpg"/>
+
+⚡  [github repository](https://github.com/HKUSTMDI/mdi-sam-⚡server)
+
 ### introduction
 Current support:
-- (1) 🌟 Real time annotation: multi-point annotation, single rectangle annotation
-- (2) 🔥 Prompt with different positive and negative values
-- (3) 🐬 the Whole Llide Image recognition
+- (1) Real time annotation: multi-point annotation, single rectangle annotation
+- (2) Prompt with different positive and negative values
+- (3) 🔥 the Whole Llide Image recognition
 
 ### WSI segmentation annotation
 <img src="/images/wsi_segmentation.gif" width="75%"/>
