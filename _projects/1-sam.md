@@ -12,7 +12,7 @@ MDI annotation platform SAM real-time recognition server.
 
 <img src="/images/architecture.jpg"/>
 
-⚡  [github repository](https://github.com/HKUSTMDI/mdi-sam-⚡server)
+⚡  [github repository](https://github.com/HKUSTMDI/mdi-sam-server)
 
 ### introduction
 Current support:
