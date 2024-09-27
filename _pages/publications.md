@@ -21,3 +21,7 @@ author_profile: true
 <div class='paper-box-text' markdown="1">
 -	 (ICASSP 2025 underreview) **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition**.
 </div>
+
+<div class='paper-box-text' markdown="1">
+-	 **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
+</div>
