@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 <div class='paper-box-text' markdown="1">
--	 (AAAI 2025 underreview) **ShipNet: an Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
+-	 (AAAI 2025 underreview) **ShipNet: An Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
 </div>
 
 <div class='paper-box-text' markdown="1">
