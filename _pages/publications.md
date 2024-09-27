@@ -15,5 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 <div class='paper-box-text' markdown="1">
--	 Chang Huang, KIEREN YU, Yuying WAN, `Cheng ZHANG`, Xinlei He, Huayong Yang, Kaishun Wu. **ShipNet: an Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
+-	 (AAAI 2025 underreview) **ShipNet: an Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
+</div>
+
+<div class='paper-box-text' markdown="1">
+-	 (ICASSP 2025 underreview) **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition**.
 </div>
