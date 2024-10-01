@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 <div class='paper-box-text' markdown="1">
--	 **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
+-	 (Radiology underreview) **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
 </div>
 
 <div class='paper-box-text' markdown="1">
