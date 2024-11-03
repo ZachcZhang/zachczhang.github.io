@@ -8,11 +8,9 @@ date: 2023-11-01
 location: "HKUST(GZ)"
 ---
 
-MDI annotation platform SAM real-time recognition server.
+MDI annotation platform SAM real-time recognition server.<img src="https://img.shields.io/github/stars/HKUSTMDI/mdi-sam-server?style=social" alt="GitHub stars">
 
 <img src="/images/architecture.jpg"/>
-
-⚡  [github repository](https://github.com/HKUSTMDI/mdi-sam-server)
 
 ### introduction
 Current support:

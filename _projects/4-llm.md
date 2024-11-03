@@ -7,23 +7,42 @@ venue: "HKUST(GZ) Medical Data Inteligence Lab, "
 location: "HKUST(GZ)"
 ---
 
-Multimodal Medical LLM (Project in progress), intended to understand and generate medical related texts,images,etc providing services such as medical consultation, diagnostic support, and medical record organization.We are still conducting this research.
+Medical MLLM Agent (Project in Progress), this service is a collaboration with Guangzhou LBP Medicine Science & Technology Co., Ltd.(688393.SH). Based on the MLLM Agent, it aims to complete multimodal retrieval and generation of a case library. It can search patient case records, diagnostic images, and other medical records, and provide MLLM consultation, offering reliable diagnostic assistance to medical personnel and patients. We are still conducting this research.
 
-I am responsible for the corpus collection, processing, fine-tuning, evaluation, deployment and access of the large language model of the base.
-<small>Collaborator: Jiale Gu:<jialegu@hkust-gz.edu.cn>, Feiyu Huang:<feiyuhuang@hkust-gz.edu.cn>, Zhao Chen </small>
+<small>Project Collaborator: Jiale Gu:<jialegu@hkust-gz.edu.cn>, Feiyu Huang:<feiyuhuang@hkust-gz.edu.cn>, [Ri Su](https://mcaloma.github.io/),Yonghao Si, Zhao Chen</small>
 
-### introduction
-- (1) Based on universal large language model and multimodal model.
-- (2) By integrating diverse data types and disease profiles, including rich and comprehensive medical information such as medical texts and images, we can leverage cross-modal data learning to extract insights from disparate data sources, ultimately enabling more accurate diagnoses and effective treatments.
+I am responsible for the following tasks
+- **Fine tuning of large language models** (Unfortunately, it was overtaken by other giant company models ).
 
-### As the project is still ongoing, only some application achievements will be presented here
+<p float="left">
+  <img src="/images/LLM_FineTune.jpeg" width="70%" />
+</p>
 
-  - Image-Text dialogue
+- **Corpus data collection (>1T token)**
+<p float="left">
+  <img src="/images/corpus_2024-05.jpeg" width="60%" />
+</p>
+
+- **Dialogue Intent Recognition**:Based on the content of the user's message and historical information, identify the required routing service. Response Time: 20~100ms
+<p float="left">
+  <img src="/images/intention_recorgnition.png" width="70%" />
+</p>
+
+
+
+
+
+#### Some Case
+
+  - **Image-Text dialogue**
     <p float="left">
     <img src="/images/multimodal.gif" width="100%" />
     </p>
 
-  - Text dialogue
+---
+  - **case library retrieval**
     <p float="left">
-    <img src="/images/multimodal-1.jpeg" width="100%" />
+    <img src="/images/chatbot_1.jpeg" width="100%" />
     </p>
+
+---
