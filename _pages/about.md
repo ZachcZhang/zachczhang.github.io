@@ -33,6 +33,10 @@ I am currently a research assistant at the Hong Kong University of Science and T
 - **Beijing Jiaotong University**
     - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6 (Took a year off with a sports injury)
 
+## Project
+
+[👷Click Here](/projects/)
+
 ## Hornors and Awards
 - 2023.11, HKUST(GZ) Red Bird Cup basketball bronze medal
 - 2022.08, Tencent Outstanding Contibuter
@@ -41,10 +45,6 @@ I am currently a research assistant at the Hong Kong University of Science and T
 - 2016.10, Tianjin University students computer mouse maze competition third prize
 - 2016.06, Beijing Jiaotong University Basketball Competition Second Place
 - 2014.03, Hunan Merit Student (Senior High School Group)
-
-
-## Project
-[👷Click Here](/projects/)
 
 ## Amateur interests
 

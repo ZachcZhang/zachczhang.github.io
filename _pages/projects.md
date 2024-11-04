@@ -137,7 +137,7 @@ author_profile: true
   </div>
   <div class="project-description">
     <h3>
-        <a href="/projects/annotation">MDI Data Evaluation </a>
+        <a href="/projects/data-evaluation-system">MDI Data Evaluation </a>
     </h3>
     <p>This project aims to briefly evaluate the annotation results of doctors on a cell electron microscope dataset using various methods, including feature information calculation, training, and data screening, to improve the quality and accuracy of the dataset annotations.</p>
   </div>

@@ -29,9 +29,6 @@ I am responsible for the following tasks
 </p>
 
 
-
-
-
 #### Some Case
 
   - **Image-Text dialogue**
