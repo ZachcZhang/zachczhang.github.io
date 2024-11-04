@@ -8,7 +8,7 @@ date: 2024-02-19
 location: "HKUST(GZ)"
 ---
 
-Mdi Data Evaluation is the MDI data quality evaluation service
+MDI Data Evaluation is the MDI data quality evaluation service
 
 I was responsible for platform development and back-end model access, as well as participating in data processing.
 <small>Collaborator: [Su Ri](https://mcaloma.github.io/), Wenjin Qi:<qijin70@gmail.com>, </small>
