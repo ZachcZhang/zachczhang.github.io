@@ -12,7 +12,7 @@ Medical MLLM Agent (Project in Progress), this service is a collaboration with G
 <small>Project Collaborator: Jiale Gu:<jialegu@hkust-gz.edu.cn>, Feiyu Huang:<feiyuhuang@hkust-gz.edu.cn>, [Ri Su](https://mcaloma.github.io/),Yonghao Si, Zhao Chen</small>
 
 I am responsible for the following tasks
-- **Fine tuning of large language models** (Unfortunately, it was overtaken by other giant company models ).
+- **Fine tuning of large language models** (Unfortunately, it was overtaken by newer LLM models ).
 
 <p float="left">
   <img src="/images/LLM_FineTune.jpeg" width="70%" />
