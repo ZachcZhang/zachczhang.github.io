@@ -314,59 +314,59 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-// .project {
-//   display: flex;
-//   align-items: flex-start;
-//   margin-bottom: 20px;
-// }
+.project {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
 
-// .project-image {
-//   position: relative;
-//   width: 30%; /* 可以根据需要调整图片大小 */
-//   margin-right: 20px;
-// }
+.project-image {
+  position: relative;
+  width: 30%; /* 可以根据需要调整图片大小 */
+  margin-right: 20px;
+}
 
-// .project-description {
-//   position: relative;
-//   width: 70%; /* 可以根据需要调整图片大小 */
-//   margin-right: 20px;
-// }
+.project-description {
+  position: relative;
+  width: 70%; /* 可以根据需要调整图片大小 */
+  margin-right: 20px;
+}
 
-// .project-image img {
-//   width: 100%;
-//   border-radius: 8px;
-// }
+.project-image img {
+  width: 100%;
+  border-radius: 8px;
+}
 
-// .project-label {
-//   position: absolute;
-//   top: 8px;
-//   left: 8px;
-//   background-color: #003366; /* 标签背景色 */
-//   color: #ffffff;
-//   padding: 4px 8px;
-//   border-radius: 4px;
-//   font-size: 0.8em;
-// }
+.project-label {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background-color: #003366; /* 标签背景色 */
+  color: #ffffff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+}
 
-// .project-description h3 {
-//   position: relative;
-//   margin-top: 0;
-//   font-size: 1.0em;
-// }
+.project-description h3 {
+  position: relative;
+  margin-top: 0;
+  font-size: 1.0em;
+}
 
-// .project-description p {
-//   position: relative;
-//   margin: 8px 0;
-//   font-size: 0.9em;
-// }
+.project-description p {
+  position: relative;
+  margin: 8px 0;
+  font-size: 0.9em;
+}
 
-// .project-description ul {
-//   margin: 8px 0;
-//   padding-left: 20px;
-//   font-size: 0.8em;
-// }
+.project-description ul {
+  margin: 8px 0;
+  padding-left: 20px;
+  font-size: 0.8em;
+}
 
-// .project-description a {
-//   color: #034b94;
-//   text-decoration: none;
-// }
+.project-description a {
+  color: #034b94;
+  text-decoration: none;
+}
