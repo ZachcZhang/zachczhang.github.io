@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant at the Hong Kong University of Science and Technology (Guangzhou), where I am involved in research on large language models and doing platform application development work. My work encompasses data corpus collection, processing and synthesis, model fine-tuning, evaluation, and deployment. Additionally, I develop internal software systems, including labeling models, data evaluation, and data management platforms,etc. Previously, I was a DevOps software engineer responsible for Tencent’s enterprise payment project. My current goal is to become a researcher and conduct practical theoretical research on large language models (LLMs).
+I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou), supervised by Professor Lei Chen.
+
+Before joining HKUST (GZ), I served as a DevOps Software Engineer on Tencent's enterprise payment project, where I was responsible for payment systems for Sam's Club, CCTV, and Li-Ning. I also gained experience as an intern at Tencent(2020) and Lenovo Research(2019). I obtained an MSc in Telecommunications from Hong Kong University of Science and Technology in November 2020, under the supervision of Professor Danny Hin-Kwok Tsang. Prior to this, I earned a Bachelor of Engineering from Beijing Jiaotong University in June 2019, supervised by Professor Guofang Fan.
+
+My research interests include large language models (LLMs), retrieval-augmented generation (RAG), multimodal learning, and few-shot learning. My goal is to become a researcher who effectively bridges theory with practical applications.
 
 ## Work Experience
 
