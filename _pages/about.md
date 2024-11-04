@@ -13,6 +13,25 @@ Before joining HKUST (GZ), I served as a DevOps Software Engineer on Tencent's e
 
 My research interests include large language models (LLMs), retrieval-augmented generation (RAG), multimodal learning, and few-shot learning. My goal is to become a researcher who effectively bridges theory with practical applications.
 
+## Project
+
+[👷Click Here](/projects/)
+
+## Publications
+
+<div class='paper-box-text' markdown="1">
+-	 (Finished) **ShipNet: An Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
+</div>
+
+<div class='paper-box-text' markdown="1">
+-	 (Radiology underreview) **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
+</div>
+
+<div class='paper-box-text' markdown="1">
+-	 (ICASSP 2025 underreview) **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition**.
+</div>
+
+
 ## Work Experience
 
 - **2023.09 - present, the Hong Kong University of Science and Technology (Guangzhou), Research Assistant**
@@ -36,10 +55,6 @@ My research interests include large language models (LLMs), retrieval-augmented 
 
 - **Beijing Jiaotong University**
     - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6 (Took a year off with a sports injury)
-
-## Project
-
-[👷Click Here](/projects/)
 
 ## Hornors and Awards
 - 2023.11, HKUST(GZ) Red Bird Cup basketball bronze medal

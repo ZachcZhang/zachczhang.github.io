@@ -16,11 +16,11 @@ author_profile: true
 {% endfor %} -->
 
 <div class='paper-box-text' markdown="1">
--	 (Radiology underreview) **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
+-	 (Finished) **ShipNet: An Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
 </div>
 
 <div class='paper-box-text' markdown="1">
--	 (AAAI 2025 underreview) **ShipNet: An Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
+-	 (Radiology underreview) **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
 </div>
 
 <div class='paper-box-text' markdown="1">
