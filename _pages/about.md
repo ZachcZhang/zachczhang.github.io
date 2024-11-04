@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou), supervised by Professor Lei Chen.
 
-Before joining HKUST (GZ), I served as a DevOps Software Engineer on Tencent's enterprise payment project, where I was responsible for payment systems for Sam's Club, CCTV, and Li-Ning. I also gained experience as an intern at Tencent(2020) and Lenovo Research(2019).
+Before joining HKUST (GZ), I worked as a DevOps Engineer at Tencent, where I was responsible for payment systems for Sam's Club, CCTV, and Li-Ning. I also gained experience as an intern at Tencent(2020) and Lenovo Research(2019).
 
 My research interests include large language models (LLMs), retrieval-augmented generation (RAG), multimodal learning, and few-shot learning. My goal is to become a researcher who effectively bridges theory with practical applications.
 
