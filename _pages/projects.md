@@ -16,7 +16,7 @@ author_profile: true
 
 ---
 
-<style>
+<!-- <style>
 .project {
   display: flex;
   align-items: flex-start;
@@ -73,7 +73,7 @@ author_profile: true
   color: #034b94;
   text-decoration: none;
 }
-</style>
+</style> -->
 
 
 <div class="project">
