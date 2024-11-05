@@ -61,6 +61,7 @@ My research interests include large language models (LLMs), retrieval-augmented 
 - 2022.08, Tencent Outstanding Contibuter
 - 2017.06, College Student Innovation and Entrepreneurship Competition (National Level)
 - 2017.05, Beijing Jiaotong University "Nokia" Cup Second Prize
+- 2016.12, Beijing Jiaotong University third class scholarship
 - 2016.10, Tianjin University students computer mouse maze competition third prize
 - 2016.06, Beijing Jiaotong University Basketball Competition Second Place
 - 2014.03, Hunan Province Merit Student (Senior High School Group)
