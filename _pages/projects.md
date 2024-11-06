@@ -4,78 +4,25 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<!-- 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-{% include base_path %} -->
 
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+<div class="project">
+  <div class="project-image">
+    <img src="/images/assistant_architecture.png" alt="Project Image">
+  </div>
+  <div class="project-description">
+    <h3>
+        <a href="/projects/assistant">PUMC-Colposcopy report interpretation assistant</a>
+    </h3>
+    <p>This project, in collaboration with Peking Union Medical College (北京协和医学院), aims to develop an intelligent medical system focused on interpreting colposcopy reports, independently completed by me. The primary goal of the project is to help patients better understand their examination reports and provide diagnostic support to doctors, thus reducing doctor-patient pressure and enhancing clinical efficiency. The system’s technical architecture and features are composed of the following key modules:</p>
+    <ul>
+      <li>Large Language Model and Multimodal Processing: Facilitates seamless integration of text and image data, enhancing information extraction and interpretation across various data types.</li>
+      <li>RAG (Retrieval-Augmented Generation): Optimizes retrieval speed and accuracy from the knowledge base, ensuring the reliability and authority of the information provided.</li>
+      <li>CoT (Chain of Thought) Reasoning: Adopts a step-by-step reasoning approach to generate interpretations and recommendations, simulating doctors' thought processes for advanced intelligent diagnostic support.</li>
+    </ul>
+  </div>
+</div>
 
 ---
-
-<!-- <style>
-.project {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px;
-}
-
-.project-image {
-  position: relative;
-  width: 30%; /* 可以根据需要调整图片大小 */
-  margin-right: 20px;
-}
-
-.project-description {
-  position: relative;
-  width: 70%; /* 可以根据需要调整图片大小 */
-  margin-right: 20px;
-}
-
-.project-image img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-.project-label {
-  position: absolute;
-  top: 8px;
-  left: 8px;
-  background-color: #003366; /* 标签背景色 */
-  color: #ffffff;
-  padding: 4px 8px;
-  border-radius: 4px;
-  font-size: 0.8em;
-}
-
-.project-description h3 {
-  position: relative;
-  margin-top: 0;
-  font-size: 1.0em;
-}
-
-.project-description p {
-  position: relative;
-  margin: 8px 0;
-  font-size: 0.9em;
-}
-
-.project-description ul {
-  margin: 8px 0;
-  padding-left: 20px;
-  font-size: 0.8em;
-}
-
-.project-description a {
-  color: #034b94;
-  text-decoration: none;
-}
-</style> -->
-
-
 <div class="project">
   <div class="project-image">
     <img src="/images/architecture.jpg" alt="Project Image">
