@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheng Zhang's Homepage"
+title                    : "Cheng ZHANG's Homepage"
 title_separator          : "-"
 name                     : &name "Zach"
 description              : &description "personal description"
@@ -20,7 +20,7 @@ description              : &description "personal description"
 author:
   # Biographic information
   avatar           : "zach.png"
-  name             : "Cheng Zhang"
+  name             : "Cheng ZHANG"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Guangzhou,China"
