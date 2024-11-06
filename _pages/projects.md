@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="project">
   <div class="project-image">
-    <img src="/images/assistant_architecture.png" alt="Project Image">
+    <img src="/images/assistant_architecture.jpeg" alt="Project Image">
   </div>
   <div class="project-description">
     <h3>
