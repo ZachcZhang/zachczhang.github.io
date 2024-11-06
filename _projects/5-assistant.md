@@ -13,7 +13,9 @@ location: "HKUST(GZ)"
 
 ## Introduction
 
-This project, in collaboration with Peking Union Medical College (北京协和医学院), aims to develop an intelligent medical system focused on interpreting colposcopy reports, independently completed by me. The primary goal of the project is to help patients better understand their examination reports and provide diagnostic support to doctors, thus reducing doctor-patient pressure and enhancing clinical efficiency. The system’s technical architecture and features are composed of the following key modules:
+This project, in collaboration with Peking Union Medical College (北京协和医学院), aims to develop an intelligent medical system focused on interpreting colposcopy reports, independently completed by me. The primary goal of the project is to help patients better understand their examination reports and provide diagnostic support to doctors, thus reducing doctor-patient pressure and enhancing clinical efficiency. The system’s technical architecture and features are composed of the following key modules.
+
+<small> if you are interested in this project or want to try it out, please contact us by email📮: <czhangcn@connect.ust.hk> .</small>
 
 ## Features
 
