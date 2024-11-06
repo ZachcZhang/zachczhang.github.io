@@ -13,7 +13,7 @@ author_profile: true
     <h3>
         <a href="/projects/assistant">PUMC-Colposcopy report interpretation assistant</a>
     </h3>
-    <p>This project, in collaboration with Peking Union Medical College (北京协和医学院), aims to develop an intelligent medical system focused on interpreting colposcopy reports, independently completed by me. The primary goal of the project is to help patients better understand their examination reports and provide diagnostic support to doctors, thus reducing doctor-patient pressure and enhancing clinical efficiency. The system’s technical architecture and features are composed of the following key modules:</p>
+    <p>This project, in collaboration with Peking Union Medical College (北京协和医学院), aims to develop an intelligent medical system focused on <b>interpreting colposcopy reports</b>, independently completed by me. The primary goal of the project is to help patients better understand their examination reports and provide diagnostic support to doctors, thus reducing doctor-patient pressure and enhancing clinical efficiency. The system’s technical architecture and features are composed of the following key modules:</p>
     <ul>
       <li>Large Language Model and Multimodal Processing: Facilitates seamless integration of text and image data, enhancing information extraction and interpretation across various data types.</li>
       <li>RAG (Retrieval-Augmented Generation): Optimizes retrieval speed and accuracy from the knowledge base, ensuring the reliability and authority of the information provided.</li>
@@ -34,7 +34,7 @@ author_profile: true
             <img src="https://img.shields.io/github/stars/HKUSTMDI/mdi-sam-server?style=social" alt="GitHub stars">
         </a>
     </h3>
-    <p>This is the first open-source project applying the SAM model to real-time annotation of whole slide images (WSI) in the medical field which I developed. This project utilizes models from the SAM family (e.g., SAM, SAM2, etc.) to assist medical personnel in annotating WSI case slides, significantly improving the speed and efficiency of medical researchers' annotation work. It provides accurate and reliable data for model training.</p>
+    <p>This is the first open-source project applying the SAM model to real-time annotation of whole slide images (WSI) in the medical field which I developed. This project utilizes models from the SAM family (e.g., SAM, SAM2, etc.) to assist medical personnel in <b>annotating WSI case slides</b>, significantly improving the speed and efficiency of medical researchers' annotation work. It provides accurate and reliable data for model training.</p>
     <ul>
       <li>The first open-source project applying the SAM model to real-time annotation WSI</li>
       <li>Surpport SAM family</li>
@@ -53,7 +53,7 @@ author_profile: true
     <h3>
         <a href="/projects/med-llm">Medical MLLM Agent </a>
     </h3>
-    <p>Medical MLLM Agent (Project in Progress), this service is a collaboration with Guangzhou LBP Medicine Science & Technology Co., Ltd.(688393.SH). Based on the MLLM Agent, it aims to complete multimodal retrieval and generation of a case library. It can search patient case records, diagnostic images, and other medical records, and provide MLLM consultation, offering reliable diagnostic assistance to medical personnel and patients. We are still conducting this research.</p>
+    <p>Medical MLLM Agent (Project in Progress), this service is a collaboration with Guangzhou LBP Medicine Science & Technology Co., Ltd.(688393.SH). Based on the MLLM Agent, it aims to <b>complete multimodal retrieval and generation of LBP's case library</b>. It can search patient case records, diagnostic images, and other medical records, and provide MLLM consultation, offering reliable diagnostic assistance to medical personnel and patients. We are still conducting this research.</p>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ author_profile: true
     <h3>
         <a href="/projects/data-manager">Medical Data Manager </a>
     </h3>
-    <p>This is the medical data management platform I developed, supporting storage and management operations for medical data. The specific features are as follows:</p>
+    <p>This is the medical data management platform I developed, <b>supporting storage and management operations for medical data</b>. The specific features are as follows:</p>
     <ul>
       <li>Data upload, download, and modification management.</li>
       <li>Whole slide image（WSI） and regular image preview.</li>

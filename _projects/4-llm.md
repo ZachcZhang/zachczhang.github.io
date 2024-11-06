@@ -4,6 +4,7 @@ collection: projects
 type: "med-llm"
 permalink: /projects/med-llm
 venue: "HKUST(GZ) Medical Data Inteligence Lab, "
+date: 2024-09-01
 location: "HKUST(GZ)"
 ---
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou).
+I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou), supervised by Professor Lei Chen.
 
 Before joining HKUST (GZ), I worked as a DevOps Engineer at Tencent, where I was responsible for payment systems for Sam's Club, CCTV, and Li-Ning. I also gained experience as an intern at Tencent(2020) and Lenovo Research(2019).
 
