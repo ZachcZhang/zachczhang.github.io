@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Medical LLM (In progress)"
+title: "PUMC-Colposcopy report interpretation assistant"
 collection: projects
 type: "med-llm"
 permalink: /projects/assistant
