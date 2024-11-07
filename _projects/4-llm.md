@@ -14,33 +14,48 @@ Medical MLLM Agent (Project in Progress), this service is a collaboration with G
 
 I am responsible for the following tasks
 - **Fine tuning of large language models** (Unfortunately, it was overtaken by newer LLM models ).
-
-<p float="left">
-  <img src="/images/LLM_FineTune.jpeg" width="70%" />
-</p>
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/LLM_FineTune.jpeg" width="75%" style="padding:10px;" />
+    <p style="text-align:center"><small style="font-weight: bolder;">Medical Benchmark Evaluation</small></p>
+  </p>
+</div>
 
 - **Corpus data collection (>1T token)**
-<p float="left">
-  <img src="/images/corpus_2024-05.jpeg" width="60%" />
-</p>
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/corpus_2024-05.jpeg" width="75%" style="padding:10px;" />
+    <p style="text-align:center"><small style="font-weight: bolder;">Corpus</small></p>
+  </p>
+</div>
 
-- **Dialogue Intent Recognition**:Based on the content of the user's message and historical information, identify the required routing service. Response Time: 20~100ms
-<p float="left">
-  <img src="/images/intention_recorgnition.png" width="70%" />
-</p>
+- **Dialogue Intent Recognition**: Based on the content of the user's message and historical information, identify the required routing service. Response Time: 20~100ms
 
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/intention_recorgnition.png" width="75%" style="padding:10px;" />
+    <p style="text-align:center"><small style="font-weight: bolder;">Corpus</small></p>
+  </p>
+</div>
 
 #### Some Case
 
   - **Image-Text dialogue**
-    <p float="left">
-    <img src="/images/multimodal.gif" width="100%" />
-    </p>
 
----
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/multimodal.gif" width="70%" style="padding:10px;" />
+    <p style="text-align:center"><small style="font-weight: bolder;">Corpus</small></p>
+  </p>
+</div>
+
+
   - **case library retrieval**
-    <p float="left">
-    <img src="/images/chatbot_1.jpeg" width="100%" />
-    </p>
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/chatbot_1.jpeg" width="70%" style="padding:10px;" />
+    <p style="text-align:center"><small style="font-weight: bolder;">LBP Case Library</small></p>
+  </p>
+</div>
 
 ---
