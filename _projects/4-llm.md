@@ -41,7 +41,6 @@ I am responsible for the following tasks
 #### Some Case
 
   - **Image-Text dialogue**
-
 <div>
   <p float="left" style="display: flex;justify-content:center; align-items: center;">
     <img src="/images/multimodal.gif" width="70%" style="padding:10px;" />
