@@ -57,6 +57,7 @@ My research interests include large language models (LLMs), retrieval-augmented 
     - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6 (Took a year off with a sports injury)
 
 ## Hornors and Awards
+- 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal (improved performance :))
 - 2023.11, HKUST(GZ) Red Bird Cup basketball bronze medal
 - 2022.08, Tencent Outstanding Contibuter
 - 2017.06, College Student Innovation and Entrepreneurship Competition (National Level)
@@ -68,7 +69,7 @@ My research interests include large language models (LLMs), retrieval-augmented 
 
 ## Amateur interests
 
-- Basketball: I am a basketball fan. I used to be a member of the basketball team of the School of Electronic Information Engineering of Beijing Jiaotong University. Besides, I took part in various amateur games.
+- Basketball: I am a basketball fan and I play PG (point guard). I used to be a member of the basketball team of the School of Electronic Information Engineering of Beijing Jiaotong University. Besides, I took part in various amateur games.
 
 - Music: I can play the guitar. I like Chinese folk songs and pop music.
 
