@@ -7,39 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou).
+I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou). 
 
-Before joining HKUST (GZ), I worked as a DevOps Engineer at Tencent, where I was responsible for payment systems for Sam's Club, CCTV, and Li-Ning. I also gained experience as an intern at Tencent (2020) and Lenovo Research (2019).
+Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also gained experience as an intern at Tencent (2020) and Lenovo Research (2019). I earned my B.E. degree from Beijing Jiaotong University under the supervision of Prof. [Guofang Fan](https://faculty.bjtu.edu.cn/eaie/9079.html) and completed my M.Sc. in Telecommunications at the Hong Kong University of Science and Technology, where I was guided by Prof. [Danny Tsang](https://eetsang.home.ece.ust.hk/).
 
-My research interests include large language models (LLMs), retrieval-augmented generation (RAG), multimodal learning, and few-shot learning. My goal is to become a researcher who effectively bridges theory with practical applications.
+My research interests include large language models (LLMs), RAG and multimodal learning. My goal is to become a researcher who effectively bridges theory with practical applications.
+
+
+## News
+- 2024.10: Cooperation paper **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data** submitted to Radiology.
+<br>
+- 2024.09: **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition** submitted to ICASSP 2025
 
 ## Projects
 
 [Click Here 🔥](/projects/)
 
-## Publications
-
-<div class='paper-box-text' markdown="1">
--	 (Finished) **ShipNet: An Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
-</div>
-
-<div class='paper-box-text' markdown="1">
--	 (Radiology underreview) **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
-</div>
-
-<div class='paper-box-text' markdown="1">
--	 (ICASSP 2025 underreview) **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition**.
-</div>
-
-
-## Work Experience
+## Experience
 
 - **2023.09 - present, the Hong Kong University of Science and Technology (Guangzhou), Research Assistant**
     - Research and development in large language models encompasses the entire process from data preparation and model training to final deployment.
     - Development of data management platform, data evaluation system and medical image annotation model
 <br>
 
-- **2020.11 - 2023.08, Tencent Computer Systems Company Limited, DevOps engineer (full time)**
+- **2020.11 - 2023.08, Tencent Computer Systems Company Limited, DevOps engineer**
     - Payment system development and maintenance
     - Service monitoring system development
 <br>
@@ -57,7 +48,7 @@ My research interests include large language models (LLMs), retrieval-augmented 
     - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6 (Took a year off with a sports injury)
 
 ## Hornors and Awards
-- 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal (improved performance :))
+- 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal ( improved performance 😃)
 - 2023.11, HKUST(GZ) Red Bird Cup basketball bronze medal
 - 2022.08, Tencent Outstanding Contibuter
 - 2017.06, College Student Innovation and Entrepreneurship Competition (National Level)
