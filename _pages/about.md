@@ -63,5 +63,3 @@ My research interests include large language models (LLMs), RAG and multimodal l
 - Basketball: I am a basketball fan and I play PG (point guard). I used to be a member of the basketball team of the School of Electronic Information Engineering of Beijing Jiaotong University. Besides, I took part in various amateur games.
 
 - Music: I can play the guitar. I like Chinese folk songs and pop music.
-
-- Photography: I am a photography enthusiast who enjoys outdoor photography and exploring history, culture, and natural scenery.
