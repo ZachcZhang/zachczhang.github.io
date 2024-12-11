@@ -59,6 +59,31 @@ The system incorporates Chain of Thought (CoT) reasoning methods aligned with do
   </p>
 </div>
 
+## Evaluation
+
+Here is a simple evaluation comparing with gpt-4o which shows that our interpretation works better. On the left are the gpt-4o results, and on the right are our results.Each criteria is scored on a scale of 0-10, and the scoring criteria are:
+- **Comprehensiveness**: How much detail does the answer provide to cover all aspects and details of the question? 
+- **Diversity**: How diverse and rich are the answers in providing different perspectives and insights on issues? 
+- **Empowerment**: To what extent do the answers help the reader understand and make informed judgments about the topic? 
+- **Directness**: How does the answer address the problem concretely and clearly?
+
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/gpt4o-interpretation.jpeg" width="40%" style="padding:10px;" />
+    <img src="/images/ours_interpretation.jpeg" width="35%" style="padding:10px" />
+    <p style="text-align:center"><small style="font-weight: bolder;">Report interpretation results</small></p>
+  </p>
+</div>
+
+<div>
+  <p float="left" style="display: flex;justify-content:center; align-items: center;">
+    <img src="/images/gpt-4o-evaluation.jpeg" width="40%" style="padding:10px;" />
+    <img src="/images/ours-evaluation.jpeg" width="40%" style="padding:10px" />
+    <p style="text-align:center"><small style="font-weight: bolder;">Evaluation results</small></p>
+  </p>
+</div>
+
+
 ## Conclusion
 
 This system not only improves patient comprehension of report content but also significantly alleviates the workload on doctors, providing a more efficient and intelligent solution for colposcopy examination and subsequent clinical care.
