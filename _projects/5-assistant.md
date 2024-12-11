@@ -77,8 +77,8 @@ Here is a simple evaluation comparing with gpt-4o which shows that our interpret
 
 <div>
   <p float="left" style="display: flex;justify-content:center; align-items: center;">
-    <img src="/images/gpt-4o-evaluation.jpeg" width="40%" style="padding:10px;" />
-    <img src="/images/ours-evaluation.jpeg" width="40%" style="padding:10px" />
+    <img src="/images/gpt4o_evaluation.jpeg" width="40%" style="padding:10px;" />
+    <img src="/images/ours_evaluation.jpeg" width="40%" style="padding:10px" />
     <p style="text-align:center"><small style="font-weight: bolder;">Evaluation results</small></p>
   </p>
 </div>
