@@ -14,10 +14,9 @@ Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also g
 My research interests include large language models (LLMs), RAG and multimodal learning. My goal is to become a researcher who effectively bridges theory with practical applications.
 
 ## News
-
-- 2024.10: Cooperation paper **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data** submitted to Radiology.
+- 2024.09: Cooperation paper **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition** submitted to ICME2025
 <br>
-- 2024.09: **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition** submitted to ICASSP 2025
+- 2024.10: Cooperation paper **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data** submitted to Radiology.
 
 ## Projects
 
