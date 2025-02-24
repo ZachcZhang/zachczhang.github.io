@@ -14,9 +14,11 @@ Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also g
 My research interests include large language models (LLMs), RAG and multimodal learning. My goal is to become a researcher who effectively bridges theory with practical applications.
 
 ## News
+- 2024.10: Cooperation paper **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data** submitted to Radiology.
+
 - 2024.09: Cooperation paper **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition** submitted to ICME2025
 <br>
-- 2024.10: Cooperation paper **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data** submitted to Radiology.
+
 
 ## Projects
 
@@ -44,7 +46,7 @@ My research interests include large language models (LLMs), RAG and multimodal l
 <br>
 
 - **Beijing Jiaotong University**
-    - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6 (Took a year off with a sports injury)
+    - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6
 
 ## Hornors and Awards
 - 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal ( improved performance 😃)
