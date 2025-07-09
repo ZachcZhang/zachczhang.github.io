@@ -16,13 +16,5 @@ author_profile: true
 {% endfor %} -->
 
 <div class='paper-box-text' markdown="1">
--	  **ShipNet: An Efficient Multi-branch Network for Underwater Acoustic Target Recognition**.
-</div>
-
-<div class='paper-box-text' markdown="1">
 -	  **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data**.
-</div>
-
-<div class='paper-box-text' markdown="1">
--	  **ShipGAN：A Novel Framework for Data Augmentaton in Underwater Acoustic Target Recognition**.
 </div>
