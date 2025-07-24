@@ -7,25 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou). 
+I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou), and I will soon begin my PhD studies at HKUST (GZ) under the supervision of Prof. [Lei Chen](https://cse.hkust.edu.hk/~leichen/).
 
 Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also gained experience as an intern at Tencent (2020) and Lenovo Research (2019). I earned my B.E. degree from Beijing Jiaotong University under the supervision of Prof. [Guofang Fan](https://faculty.bjtu.edu.cn/eaie/9079.html) and completed my M.Sc. in Telecommunications at the Hong Kong University of Science and Technology, where I was guided by Prof. [Danny Tsang](https://eetsang.home.ece.ust.hk/).
 
 My research interests include large language models (LLMs), RAG and multimodal learning. My goal is to become a researcher who effectively bridges theory with practical applications.
 
-## News
-- 2025.07 A new work is comming soon...
-- 2025.05 Cooperation paper **Deep Learning-based Prediction of Recurrence Patterns in Hepatocellular Carcinoma Using Multimodal Data** submitted to Radiology.
-<br>
-
-
-## Projects
-
-[Click Here 🔥](/projects/)
 
 ## Experience
 
-- **2023.09 - present, the Hong Kong University of Science and Technology (Guangzhou), Research Assistant**
+- **2023.09 - 2025.08, the Hong Kong University of Science and Technology (Guangzhou), Research Assistant**
     - Research and development in large language models encompasses the entire process from data preparation and model training to final deployment.
     - Development of data management platform, data evaluation system and medical image annotation model
 <br>
@@ -46,6 +37,10 @@ My research interests include large language models (LLMs), RAG and multimodal l
 
 - **Beijing Jiaotong University**
     - B.E. in Signal and Control of Rail Transit, 2014.9 - 2019.6
+
+## Projects
+
+[Click Here](/projects/)
 
 ## Hornors and Awards
 - 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal ( improved performance 😃)
