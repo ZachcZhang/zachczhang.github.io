@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant in the Medical Data Intelligence Lab at the Hong Kong University of Science and Technology (Guangzhou), and I will soon begin my PhD studies at HKUST (GZ) under the supervision of Prof. [Lei Chen](https://cse.hkust.edu.hk/~leichen/).
+I am currently a First Year PhD Student at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. [Lei Chen](https://cse.hkust.edu.hk/~leichen/).
 
 Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also gained experience as an intern at Tencent (2020) and Lenovo Research (2019). I earned my B.E. degree from Beijing Jiaotong University under the supervision of Prof. [Guofang Fan](https://faculty.bjtu.edu.cn/eaie/9079.html) and completed my M.Sc. in Telecommunications at the Hong Kong University of Science and Technology, where I was guided by Prof. [Danny Tsang](https://eetsang.home.ece.ust.hk/).
 
 My research interests include large language models (LLMs), RAG and multimodal learning. My goal is to become a researcher who effectively bridges theory with practical applications.
-
 
 ## Experience
 
@@ -30,7 +29,9 @@ My research interests include large language models (LLMs), RAG and multimodal l
     - Research on multi-mobile device communication equipment
 
 ## Education
-
+- **the Hong Kong University of Science and Technology (Guangzhou)**
+    - Ph.D in  Data Science and Analytics, 2025.09 - Present
+  <br>
 - **the Hong Kong University of Science and Technology**
     - M.Sc. in Telecommunications, 2019.8 - 2020.11
 <br>
@@ -43,15 +44,11 @@ My research interests include large language models (LLMs), RAG and multimodal l
 [Click Here](/projects/)
 
 ## Hornors and Awards
-- 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal ( improved performance 😃)
-- 2023.11, HKUST(GZ) Red Bird Cup basketball bronze medal
+- 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal
+
 - 2022.08, Tencent Outstanding Contibuter
 - 2017.06, College Student Innovation and Entrepreneurship Competition (National Level)
-- 2017.05, Beijing Jiaotong University "Nokia" Cup Second Prize
-- 2016.12, Beijing Jiaotong University third class scholarship
-- 2016.10, Tianjin University students computer mouse maze competition third prize
 - 2016.06, Beijing Jiaotong University Basketball Competition Second Place
-- 2014.03, Hunan Province Merit Student (Senior High School Group)
 
 ## Amateur interests
 
