@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a First Year PhD Student at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. [Lei Chen](https://cse.hkust.edu.hk/~leichen/).
+I am currently a First Year PhD Student at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. [Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Prof. [Jia Li](https://sites.google.com/view/lijia).
 
 Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also gained experience as an intern at Tencent (2020) and Lenovo Research (2019). I earned my B.E. degree from Beijing Jiaotong University under the supervision of Prof. [Guofang Fan](https://faculty.bjtu.edu.cn/eaie/9079.html) and completed my M.Sc. in Telecommunications at the Hong Kong University of Science and Technology, where I was guided by Prof. [Danny Tsang](https://eetsang.home.ece.ust.hk/).
 
