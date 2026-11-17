@@ -59,22 +59,31 @@
 }
 
 .page__footer-visitors {
-  min-height: 1.5em;
   font-family: $global-font-family;
   font-size: $type-size-7;
   text-align: center;
+}
 
-  > span {
-    margin: 0 0.75em;
-    white-space: nowrap;
-  }
+.page__footer-visitors-title {
+  margin: 0 0 1em;
+  color: inherit;
+  font-size: 1em;
+  font-weight: 600;
+}
 
-  .fas {
-    margin-right: 0.25em;
-  }
+.page__footer-visitors-globe {
+  width: 280px;
+  max-width: 100%;
+  min-height: 320px;
+  margin: 0 auto;
 
-  [id^="busuanzi_value_"] {
-    font-variant-numeric: tabular-nums;
+  img,
+  iframe,
+  canvas {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 0;
   }
 }
 

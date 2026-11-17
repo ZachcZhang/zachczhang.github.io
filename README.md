@@ -18,12 +18,16 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
-The footer displays site visitors and total page views using
-[Busuanzi](https://ibruce.info/2015/04/04/busuanzi/), with no account or API key required.
-Set `visitor_stats.enabled` to `false` in `_config.yml` to disable both the widget
-and its external script. Counts appear after the service responds and stay hidden
-if it is unavailable or blocked. Check real counts on the published domain;
-localhost preview counts do not represent this site's visitors.
+The footer displays a MapMyVisitors globe using the embed code registered for
+`https://zachczhang.github.io/`. Its HTTPS script URL, including the site's unique
+`d` parameter, is configured in `visitor_stats.mapmyvisitors_script_url` in
+`_config.yml`. Keep the script ID `mmvst_globe` unchanged; the provider uses it to
+locate the widget. The script follows the provider's loading order because its
+initialization depends on the window load event.
+The footer is omitted until this URL is configured. Set `visitor_stats.enabled`
+to `false` to disable both the globe and its external script. Check the globe and
+recorded visits on the published domain; localhost previews are not production
+traffic. Restart Jekyll after changing `_config.yml`.
 
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
