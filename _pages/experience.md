@@ -33,6 +33,5 @@ redirect_from:
 ## Honors and Awards
 - 2025.12, HKUST(GZ) Red Bird Cup basketball gold medal
 - 2024.11, HKUST(GZ) Red Bird Cup basketball silver medal
-
 - 2022.08, Tencent Outstanding Contibuter
 - 2017.06, College Student Innovation and Entrepreneurship Competition (National Level)

@@ -1,7 +1,9 @@
-<div class="page__footer-visitors">
-  <h2 class="page__footer-visitors-title">Visitors around the world</h2>
-  <div class="page__footer-visitors-globe">
-    <script type="text/javascript" id="mmvst_globe" src="{{ visitor_map_url | escape }}"></script>
-    <noscript>Enable JavaScript to view the visitor globe.</noscript>
+{% assign visitor_map_url = site.visitor_stats.mapmyvisitors_script_url | default: "" | strip %}
+{% if site.visitor_stats.enabled and visitor_map_url != "" %}
+<div class="page__visitors">
+  <div class="page__visitors-map">
+    <script type="text/javascript" id="mapmyvisitors" src="{{ visitor_map_url | escape }}"></script>
+    <noscript>Enable JavaScript to view the visitor map.</noscript>
   </div>
 </div>
+{% endif %}

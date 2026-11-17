@@ -18,16 +18,14 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
-The footer displays a MapMyVisitors globe using the embed code registered for
-`https://zachczhang.github.io/`. Its HTTPS script URL, including the site's unique
-`d` parameter, is configured in `visitor_stats.mapmyvisitors_script_url` in
-`_config.yml`. Keep the script ID `mmvst_globe` unchanged; the provider uses it to
-locate the widget. The script follows the provider's loading order because its
-initialization depends on the window load event.
+The footer displays a MapMyVisitors map using the JavaScript embed registered for
+`https://zachczhang.github.io/`. Its script URL is configured in
+`visitor_stats.mapmyvisitors_script_url` in `_config.yml`. The script tag stays in
+the page body, with the provider id `mapmyvisitors`.
 The footer is omitted until this URL is configured. Set `visitor_stats.enabled`
-to `false` to disable both the globe and its external script. Check the globe and
-recorded visits on the published domain; localhost previews are not production
-traffic. Restart Jekyll after changing `_config.yml`.
+to `false` to disable the map and its external script. Check the map and recorded
+visits on the published domain; localhost previews are not production traffic.
+Restart Jekyll after changing `_config.yml`.
 
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 

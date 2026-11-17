@@ -18,15 +18,6 @@ layout: compress
 
     {{ content }}
 
-    {% assign visitor_map_url = site.visitor_stats.mapmyvisitors_script_url | default: "" | strip %}
-    {% if site.visitor_stats.enabled and visitor_map_url != "" %}
-    <div class="page__footer">
-      <footer>
-        {% include footer/visitor-stats.html %}
-      </footer>
-    </div>
-    {% endif %}
-
     {% include scripts.html %}
 
   </body>

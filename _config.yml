@@ -136,7 +136,7 @@ social:
 # Analytics
 visitor_stats:
   enabled                : true # Show the MapMyVisitors globe in the footer
-  mapmyvisitors_script_url: "https://mapmyvisitors.com/globe.js?d=WA8XSEFnQa-SgIV11HTDsmkDTdIkLmaR1SCAyKY60IQ"
+  mapmyvisitors_script_url: "https://mapmyvisitors.com/map.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto&cl=ffffff&w=a"
 
 analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
