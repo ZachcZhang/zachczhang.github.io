@@ -1,0 +1,26 @@
+{% assign news_items = site.data.news | sort: "date" | reverse %}
+<section class="news" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+  <ol class="news__list">
+    {% for item in news_items %}
+      <li class="news__item">
+        <time class="news__date" datetime="{{ item.date }}">{{ item.date }}</time>
+        <div class="news__body">
+          <p class="news__title">
+            {% if item.tag %}
+              <span class="news__tag news__tag--{{ item.tag | downcase }}">{{ item.tag }}</span>
+            {% endif %}
+            {% if item.url %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            {% else %}
+              {{ item.title }}
+            {% endif %}
+          </p>
+          {% if item.text %}
+            <p class="news__text">{{ item.text }}</p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

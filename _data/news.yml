@@ -1,0 +1,13 @@
+# Homepage news. Add a new item anywhere in the list.
+# Newest dates are shown first. Use date as YYYY.MM.
+#
+# - date: "2026.12"
+#   tag: Talk            # Paper, Award, Talk, or News
+#   title: "Short headline"
+#   text: "One or two sentences."
+#   url: "https://example.com"   # optional
+
+- date: "2026.11"
+  tag: Paper
+  title: "GraphR² has been accepted to the KDD 2027 Research Track"
+  text: "I am a co-author. Congratulations to Liping."

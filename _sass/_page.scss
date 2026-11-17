@@ -25,6 +25,9 @@
 
   .page__inner-wrap {
     @include full();
+    font-family: "Source Sans 3", $sans-serif;
+    font-size: 0.9375rem;
+    line-height: 1.55;
 
     .page__content,
     .page__meta,
@@ -53,6 +56,12 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+  }
+
+  #news-heading,
+  #hobbies {
+    padding-bottom: 0.45em;
+    border-bottom: 1px solid mix(#fff, $gray, 55%);
   }
 
   p, li, dl {

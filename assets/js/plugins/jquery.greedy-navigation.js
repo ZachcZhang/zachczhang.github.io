@@ -10,6 +10,10 @@ var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
+if (!$btn.length) {
+  $hlinks.addClass('hidden');
+} else {
+
 var breaks = [];
 
 function updateNav() {
@@ -70,3 +74,4 @@ $btn.on('click', function() {
 });
 
 updateNav();
+}
