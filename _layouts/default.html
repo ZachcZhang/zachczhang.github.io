@@ -18,6 +18,14 @@ layout: compress
 
     {{ content }}
 
+    {% if site.visitor_stats.enabled %}
+    <div class="page__footer">
+      <footer>
+        {% include footer/visitor-stats.html %}
+      </footer>
+    </div>
+    {% endif %}
+
     {% include scripts.html %}
 
   </body>

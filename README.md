@@ -18,6 +18,13 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
+The footer displays site visitors and total page views using
+[Busuanzi](https://ibruce.info/2015/04/04/busuanzi/), with no account or API key required.
+Set `visitor_stats.enabled` to `false` in `_config.yml` to disable both the widget
+and its external script. Counts appear after the service responds and stay hidden
+if it is unavailable or blocked. Check real counts on the published domain;
+localhost preview counts do not represent this site's visitors.
+
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.

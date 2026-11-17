@@ -134,6 +134,9 @@ social:
 
 
 # Analytics
+visitor_stats:
+  enabled                : true # Show Busuanzi visitor and page-view counts in the footer
+
 analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
