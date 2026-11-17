@@ -14,8 +14,8 @@ Before joining HKUST (GZ), I worked as an software engineer at Tencent. I also g
 
 My research interests include:
 
-- Medical multi-turn dialogue agents, with a focus on AI memory and clinical diagnostic reasoning.
-- Human–computer interaction systems that improve human–AI collaboration and make AI applications easier to use.
+- Multi-turn agent systems and their internal techniques, including clinical reasoning and memory.
+- Human–computer interaction systems that advance human–AI collaboration and the usability of AI applications.
 
 My goal is to become a researcher who effectively bridges theory with practical applications.
 

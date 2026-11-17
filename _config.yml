@@ -24,7 +24,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Guangzhou,China"
-  employer         : "HKUST(GZ), HKUST, BJTU"
+  employer         : "HKUST(GZ)"
   uri              : "https://zachczhang.github.io/"
   email            : "czhangcn@connect.ust.hk" 
 
@@ -136,7 +136,7 @@ social:
 # Analytics
 visitor_stats:
   enabled                : true # Show the MapMyVisitors globe in the footer
-  mapmyvisitors_script_url: "https://mapmyvisitors.com/map.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto&cl=ffffff&w=a"
+  mapmyvisitors_script_url: "https://mapmyvisitors.com/map.js?d=r3cZESCjDQiUGVsZm8egXFlchuUrhdJlEVYltDTwFto&cl=ffffff&w=a&t=n"
 
 analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
