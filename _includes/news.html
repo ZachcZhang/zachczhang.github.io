@@ -10,15 +10,16 @@
             {% if item.tag %}
               <span class="news__tag news__tag--{{ item.tag | downcase }}">{{ item.tag }}</span>
             {% endif %}
+            {% assign news_title = item.title | markdownify | remove: "<p>" | remove: "</p>" | strip %}
             {% if item.url %}
-              <a href="{{ item.url }}">{{ item.title }}</a>
+              <a href="{{ item.url }}">{{ news_title }}</a>
             {% else %}
-              {{ item.title }}
+              {{ news_title }}
+            {% endif %}
+            {% if item.text %}
+              <span class="news__text">{{ item.text }}</span>
             {% endif %}
           </p>
-          {% if item.text %}
-            <p class="news__text">{{ item.text }}</p>
-          {% endif %}
         </div>
       </li>
     {% endfor %}
